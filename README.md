@@ -1,5 +1,5 @@
-                                                                   NAME : Lakshmi Priya .V
-                                                                   REG NO: 212223220049
+                                                   NAME : Lakshmi Priya .V
+                                                   REG NO: 212223220049
 
 # Fitting Poisson  distribution
 # Aim : 
